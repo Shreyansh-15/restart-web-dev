@@ -3,3 +3,4 @@
 ## Progress Log
 - Day 1: Repo setup and restart
 - Day 2: HTML structure and Python logic programs
+- Day 3: Added basic CSS styling and linked stylesheet
