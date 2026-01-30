@@ -6,3 +6,4 @@
 - Day 3: Added basic CSS styling and linked stylesheet
 - Day 4: add basic JavaScript button interaction
 - Bonus: Improved button interaction with dynamic text
+- Day 4: JavaScript DOM interaction with click counter

@@ -1,8 +1,9 @@
-const btn = document.getElementById("myBtn");
+let count = 0;
+
+const Button = document.getElementById("myBtn");
 const msg= document.getElementById("message");
 
-btn.addEventListener("click", function() {
-    msg.innerText = "Button clicked!";
-    btn.innerText = "Clicked ✅";
+Button.addEventListener("click", () =>{
+    count++;
+    msg.textContent = `Button clicked ${count} times`;
 });
-

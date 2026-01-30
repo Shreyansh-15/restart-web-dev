@@ -13,3 +13,13 @@ p {
     line-height: 1.5;
     color: #666;
 }
+
+button {
+    padding: 10px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.95);
+}
