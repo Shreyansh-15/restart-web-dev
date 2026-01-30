@@ -7,3 +7,4 @@
 - Day 4: add basic JavaScript button interaction
 - Bonus: Improved button interaction with dynamic text
 - Day 4: JavaScript DOM interaction with click counter
+- Day 4: add click counter and button feedback
