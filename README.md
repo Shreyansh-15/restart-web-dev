@@ -13,3 +13,29 @@
   - Button click counter using JavaScript
   - Displayed current time dynamically
   - Practiced basic DOM manipulation and events
+- Day 6: JavaScript DOM & Live Clock ⏰
+
+## What I worked on
+- Practiced JavaScript DOM manipulation
+- Implemented a live digital clock using `setInterval`
+- Added Start and Stop functionality for the clock
+- Learned how to enable/disable buttons using JavaScript
+- Practiced handling button click events
+
+## Concepts Used
+- `document.getElementById()`
+- `addEventListener()`
+- `setInterval()` and `clearInterval()`
+- JavaScript Date object
+- Updating HTML using `textContent`
+- Using variables to control program state
+
+## What I learned
+- Why storing `setInterval` in a variable is important
+- How multiple intervals can cause bugs if not handled properly
+- How JavaScript interacts with HTML elements dynamically
+- How to write cleaner and more controlled event-based code
+
+## Status
+Completed ✅  
+Will improve styling and add more features later.
