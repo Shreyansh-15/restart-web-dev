@@ -6,47 +6,47 @@
 
 🌐 Web Development
 
--Day 1: Repository setup and restart
+- Day 1: Repository setup and restart
 
--Day 2: HTML structure and basic Python logic programs
+- Day 2: HTML structure and basic Python logic programs
 
--Day 3: Added basic CSS styling and linked stylesheet
+- Day 3: Added basic CSS styling and linked stylesheet
 
--Day 4: JavaScript DOM interaction
-  -Basic button interaction
-  -Dynamic text updates
-  -Click counter & feedback
+- Day 4: JavaScript DOM interaction
+  - Basic button interaction
+  - Dynamic text updates
+  - Click counter & feedback
 
--Day 5: JavaScript Interactivity
-  -Button click counter
-  -Displayed current time dynamically
-  -Practiced DOM manipulation and events
+- Day 5: JavaScript Interactivity
+  - Button click counter
+  - Displayed current time dynamically
+  - Practiced DOM manipulation and events
 
--Day 6: JavaScript DOM & Live Clock ⏰
+- Day 6: JavaScript DOM & Live Clock ⏰
 
--Day 7: Time-based UI & Logic
-  -Live clock with Start/Stop
-  -Enable/disable buttons
-  -Dynamic greeting based on time
-  -Greeting auto-updates every minute
+- Day 7: Time-based UI & Logic
+  - Live clock with Start/Stop
+  - Enable/disable buttons
+  - Dynamic greeting based on time
+  - Greeting auto-updates every minute
 
 🐍 Python
 
--Day 1 — Python Basics
-  -Practiced conditionals
-  -Worked with user input
-  -Solved divisibility problems
+- Day 1 — Python Basics
+  - Practiced conditionals
+  - Worked with user input
+  - Solved divisibility problems
 
--Day 2 — Loops & Number Logic
-  -Practiced for and while loops
-  -Sum of odd/even numbers
-  -Digit counting using while loop
-  -Sum of digits
+- Day 2 — Loops & Number Logic
+  - Practiced for and while loops
+  - Sum of odd/even numbers
+  - Digit counting using while loop
+  - Sum of digits
 
--Day 3 — More Loop Practice
-  -Strengthened logic building
-  -Step-by-step tracing of loops
-  -Improved confidence solving problems
+- Day 3 — More Loop Practice
+  - Strengthened logic building
+  - Step-by-step tracing of loops
+  - Improved confidence solving problems
 
 💻 What I Worked On
 
@@ -65,29 +65,29 @@ Python logic building with loops and conditions
 🧠 Concepts Used
 #JavaScript:-
 
--document.getElementById()
+- document.getElementById()
 
--addEventListener()
+- addEventListener()
 
--setInterval() / clearInterval()
+- setInterval() / clearInterval()
 
--JavaScript Date object
+- JavaScript Date object
 
--textContent updates
+- textContent updates
 
--Conditional UI logic
+- Conditional UI logic
 
 #Python:-
 
--input() handling
+- input() handling
 
--if/elif/else
+- if/elif/else
 
--for & while loops
+- for & while loops
 
--range() function
+- range() function
 
--Modulo operator %
+- Modulo operator %
 
 ✨ What I Learned
 
