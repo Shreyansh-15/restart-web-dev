@@ -48,6 +48,17 @@
   - Step-by-step tracing of loops
   - Improved confidence solving problems
 
+- Day 4 — Functions
+  - Learned how to define and call functions
+  - Practiced parameters and return values
+  - Wrote functions for:
+    - Addition
+    - Square & cube
+    - Even/odd checking
+    - Positive number check
+    - Multiple of 5 check
+  - Improved understanding of reusable logic
+
 💻 What I Worked On
 
   JavaScript DOM manipulation
