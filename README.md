@@ -30,6 +30,13 @@
   - Dynamic greeting based on time
   - Greeting auto-updates every minute
 
+- Day 8: Form & UI Logic
+  - Form validation using JavaScript
+  - Prevented empty submissions
+  - Display user input dynamically
+  - Counter with reset button
+  - Time-based background color & greeting
+
 🐍 Python
 
 - Day 1 — Python Basics
@@ -61,17 +68,17 @@
 
 💻 What I Worked On
 
-  JavaScript DOM manipulation
+- JavaScript DOM manipulation
 
-  Live digital clock using setInterval
+- Live digital clock using setInterval
 
-  Start/Stop clock functionality
+- Start/Stop clock functionality
 
-  Button enable/disable logic
+- Button enable/disable logic
 
-  Dynamic greeting system
+- Dynamic greeting system
 
-  Python logic building with loops and conditions
+- Python logic building with loops and conditions
 
 🧠 Concepts Used
 
@@ -103,17 +110,17 @@
 
 ✨ What I Learned
 
-Why storing setInterval in a variable matters
+- Why storing setInterval in a variable matters
 
-How multiple intervals can create bugs
+- How multiple intervals can create bugs
 
-How JS updates UI dynamically
+- How JS updates UI dynamically
 
-How loops actually run step-by-step
+- How loops actually run step-by-step
 
-Logic building > memorizing code
+- Logic building > memorizing code
 
-Consistency beats intensity
+- Consistency beats intensity
 
 🎯 Current Goal
 
