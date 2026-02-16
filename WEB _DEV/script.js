@@ -8,6 +8,17 @@ const form = document.getElementById("myForm");
 const formMessage = document.getElementById("formMessage");
 const resetBtn = document.getElementById("resetBtn");
 const toggleBtn = document.getElementById("toggleMode");
+const toggleFormBtn = document.getElementById("toggleFormBtn");
+
+toggleFormBtn.addEventListener("click", () => {
+    if (form.style.display === "none") {
+        form.style.display = "block";
+        toggleFormBtn.textContent = "Hide Form";
+    } else { 
+        form.style.display = "none";
+        toggleFormBtn.textContent = "Show Form";
+    }
+});
 
 toggleBtn.addEventListener("click", () =>{
     document.body.classList.toggle("dark");
@@ -39,17 +50,17 @@ function updateGreeting() {
     if (hour < 12) {
         greetingPara.textContent = `Good Morning, ${name}!`;
         greetingPara.style.color = "gold";
-        document.body.style.backgroundColor = "#FFF9C4";
+        // document.body.style.backgroundColor = "#FFF9C4";
     }  
     else if (hour < 18) {
         greetingPara.textContent = `Good Afternoon, ${name}!`;
         greetingPara.style.color = "orange";
-        document.body.style.backgroundColor = "#FFE0B2";
+        // document.body.style.backgroundColor = "#FFE0B2";
     }
      else {
         greetingPara.textContent = `Good Evening, ${name}!`;
         greetingPara.style.color = "darkblue";
-        document.body.style.backgroundColor = "#BBDEFB";
+        // document.body.style.backgroundColor = "#BBDEFB";
     }
 }
 updateGreeting();

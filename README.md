@@ -37,6 +37,13 @@
   - Counter with reset button
   - Time-based background color & greeting
 
+- Day 9: Mission Day 3
+  - Added Show / Hide Form toggle feature
+  - Practiced UI state handling using JavaScript
+  - Updated button text dynamically based on state
+  - Improved DOM control and event handling
+  - Fixed background color logic conflict between features
+
 🐍 Python
 
 - Day 1 — Python Basics
@@ -80,6 +87,13 @@
   - Strengthened number manipulation logic
   - Practiced step-by-step problem solving
 
+- Day 7 — Python Logic Building (Mission Day 3)
+  - Reversed a number using logic (no string conversion)
+  - Checked palindrome numbers
+  - Counted vowels in a string
+  - Found largest number in a list (without max())
+  - Practiced FizzBuzz logic problem
+  - Improved loop + condition thinking
 
 💻 What I Worked On
 
@@ -130,6 +144,13 @@
 - Logic building > memorizing code
 
 - Consistency beats intensity
+
+- Practiced UI state toggling in JavaScript
+
+- Improved number manipulation logic in Python
+
+- Learned to separate responsibilities between features
+
 
 🎯 Current Goal
 
